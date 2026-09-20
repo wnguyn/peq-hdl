@@ -1,0 +1,10 @@
+/home/will/git/rtos/target/debug/deps/symphonia_codec_adpcm-903cb2930a8c4efa.d: /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.6.1/src/lib.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.6.1/src/codec_ima_qt.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.6.1/src/codec_ima_wav.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.6.1/src/codec_ms.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.6.1/src/common.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.6.1/src/common_ima.rs
+
+/home/will/git/rtos/target/debug/deps/libsymphonia_codec_adpcm-903cb2930a8c4efa.rmeta: /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.6.1/src/lib.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.6.1/src/codec_ima_qt.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.6.1/src/codec_ima_wav.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.6.1/src/codec_ms.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.6.1/src/common.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.6.1/src/common_ima.rs
+
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.6.1/src/lib.rs:
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.6.1/src/codec_ima_qt.rs:
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.6.1/src/codec_ima_wav.rs:
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.6.1/src/codec_ms.rs:
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.6.1/src/common.rs:
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.6.1/src/common_ima.rs:

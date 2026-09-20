@@ -1,0 +1,10 @@
+/home/will/git/rtos/target/debug/deps/symphonia_bundle_flac-08e4cb48e957d9bd.d: /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-bundle-flac-0.6.1/src/lib.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-bundle-flac-0.6.1/src/decoder.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-bundle-flac-0.6.1/src/demuxer.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-bundle-flac-0.6.1/src/frame.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-bundle-flac-0.6.1/src/parser.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-bundle-flac-0.6.1/src/validate.rs
+
+/home/will/git/rtos/target/debug/deps/libsymphonia_bundle_flac-08e4cb48e957d9bd.rmeta: /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-bundle-flac-0.6.1/src/lib.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-bundle-flac-0.6.1/src/decoder.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-bundle-flac-0.6.1/src/demuxer.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-bundle-flac-0.6.1/src/frame.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-bundle-flac-0.6.1/src/parser.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-bundle-flac-0.6.1/src/validate.rs
+
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-bundle-flac-0.6.1/src/lib.rs:
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-bundle-flac-0.6.1/src/decoder.rs:
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-bundle-flac-0.6.1/src/demuxer.rs:
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-bundle-flac-0.6.1/src/frame.rs:
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-bundle-flac-0.6.1/src/parser.rs:
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-bundle-flac-0.6.1/src/validate.rs:

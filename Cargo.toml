@@ -4,3 +4,8 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+anyhow = "1.0.104"
+clap = { version = "4.6.7", features = ["derive"] }
+flacx = "0.11.0"
+serde = "1.0.229"
+symphonia = "0.6.1"
