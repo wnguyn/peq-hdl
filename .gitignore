@@ -1,2 +1,2 @@
-# Verilator-generated model (Vtop.h, libVtop.a) produced by `make verilate`
 obj_dir/
+target/
